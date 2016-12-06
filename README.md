@@ -1,3 +1,3 @@
 # americanTimeUseSurvey
 
-Data at: http://www.bls.gov/tus/data.htm
+Data can be found at: http://www.bls.gov/tus/data.htm
